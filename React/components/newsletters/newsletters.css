@@ -1,0 +1,10 @@
+.newsletter-formik-error-message {
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 95%;
+    color: rgb(199, 37, 37);
+}
+
+.newsletter-textarea{
+    resize: "none"
+}

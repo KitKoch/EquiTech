@@ -1,0 +1,22 @@
+.comment-button-group {
+  display: flex;
+  justify-content: space-between;
+}
+ 
+.comment-has-error {
+  color: red;
+}
+
+.comment-btn-square {
+  border-radius: 0;
+}
+
+.comment-btn-feather {
+  width: 14px;
+  height: 14px;
+}
+
+.comment-btn-reply {
+  float: right;
+  margin-right: 10px;
+}

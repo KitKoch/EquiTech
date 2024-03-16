@@ -1,0 +1,3 @@
+textarea.form-control {
+  min-height: calc(7rem + 2px);
+}

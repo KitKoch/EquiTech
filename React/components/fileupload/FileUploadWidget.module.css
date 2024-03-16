@@ -1,0 +1,40 @@
+.fileupload_frame {
+  width: 100%;
+}
+
+.fileupload_filelist {
+  padding: 4px;
+  min-width: 15rem;
+  width: 100%;
+  background-color: #eff2f6;
+  overflow: auto;
+  height: 15rem;
+}
+
+.fileupload_preview {
+  height: 15rem;
+  min-width: 15rem;
+  padding-left: 0.4rem;
+  text-align: center;
+}
+
+.fileupload_filelist::-webkit-scrollbar {
+  width: 6px;
+}
+.fileupload_filelist::-webkit-scrollbar-thumb {
+  border-radius: 20px;
+  background-color: rgba(73, 80, 87, 0.342);
+}
+.fileupload_widgetframe {
+  width: 100%;
+  height: 15rem;
+}
+.fileupload_widget {
+  border: 6px dotted #cccccc;
+  border-radius: 25px;
+  width: 100%;
+  height: 100%;
+}
+.fileupload_icon {
+  width: 80px;
+}

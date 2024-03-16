@@ -1,0 +1,29 @@
+.blog-img {
+  width: 24rem;
+  height: 230px;
+}
+ 
+.blog-content {
+  font-size: 200%;
+}
+
+.return-to-blogs-btn {
+  float: right;
+}
+
+.blog-date-created {
+  float: right;
+}
+
+.blog-avatar-img {
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-left: 20px;
+}
+
+.blog-title {
+  text-align: center;
+  margin-top: 10px;
+}

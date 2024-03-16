@@ -1,0 +1,30 @@
+.candidateappoint .container .card-main {
+  border-radius: 8px;
+  box-shadow: -2px 2px 8px 1px rgba(41, 47, 51, 0.3);
+  z-index: 1;
+  align-items: center;
+  padding: 1rem;
+  max-width: 100%;
+}
+
+.candidateappoint .container .card-main {
+  margin-bottom: 0;
+}
+
+.candidateappoint .container .card-main .card-header {
+  padding-bottom: 0;
+}
+
+.candidateappoint .container .card-main .card-body {
+  padding-top: 0;
+}
+
+.candidateappoint .container .card-main .table {
+  margin-bottom: 0;
+}
+
+.candidateappoint .container .card-body-height {
+  height: 100%;
+}
+
+  

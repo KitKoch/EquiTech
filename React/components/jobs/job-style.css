@@ -1,0 +1,130 @@
+.jobs-button-group {
+    display: flex;
+    justify-content: space-between;
+}
+.title-form-group
+{
+   max-width: 300px;
+   display: flex;
+   justify-content: center;
+   margin: auto;
+   flex-direction: column;
+}
+.description-form-group{
+
+    max-width: 500px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    flex-direction: column;   
+}
+textarea.form-control{
+min-height: calc(7rem + 2px);
+}
+.requirements-form-group
+{
+    max-width: 500px;
+    max-width: 500px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    flex-direction: column;   
+}
+.jobTypeId-form-group
+{
+
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    flex-direction: column;
+}
+.jobStatusId-form-group
+{
+   max-width: 300px;
+   display: flex;
+   justify-content: center;
+   margin: auto;
+   flex-direction: column;
+}
+.organizationId-form-group
+{
+    max-width: 300px;
+    display: flex;
+   justify-content: center;
+   margin: auto;
+   flex-direction: column;
+}
+.locationId-form-group
+{
+    max-width: 300px;
+    display: flex;
+   justify-content: center;
+   margin: auto;
+   flex-direction: column;
+}
+.remoteStatusId-form-group
+{
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    flex-direction: column;
+}
+.contactName-form-group
+{
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    flex-direction: column;
+}
+.contactPhone-form-group
+{
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    flex-direction: column;
+}
+.contactEmail-form-group
+{
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    flex-direction: column;
+}
+.estimatedStartDate-form-group
+{
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    flex-direction: column;
+}
+.estimatedFinishDate-form-group
+{
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    flex-direction: column;
+}
+
+
+
+  
+
+  
+ 
+  
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+  

@@ -1,0 +1,28 @@
+
+
+.colorB{
+    color: rgb(100, 149, 237)
+}
+
+
+.ml-32{
+    margin-left: 32px;
+}
+
+.faq-has-error{
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 80%;
+    color: #dc3545;
+}
+
+.faq-banner-img {
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.faqiconsize {
+    height: 1rem;
+    width: 1rem;
+}

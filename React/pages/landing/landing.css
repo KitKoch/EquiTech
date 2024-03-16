@@ -1,0 +1,29 @@
+.title-row {
+  min-height: 67px;
+}
+
+.landing-blog-img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.landing-first-statement {
+  font-size: 5em;
+}
+.register-btn:hover {
+  transform: scale(1.05);
+}
+
+.employer-features {
+  font-size: 5em;
+  /* margin-bottom: 70px; */
+}
+
+.employer-features-card:hover {
+  color: black;
+  transform: scale(1.1);
+}
+
+.company-reviews {
+  font-size: 5em;
+}

@@ -1,0 +1,22 @@
+.candidate-job-search .container .mb-3 .col {
+  display: flex;
+  align-items: center;
+}
+
+.candidate-job-search .container .mb-3 .col .input-group {
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.candidate-job-search .container .mb-3 .col .input-group .form-control {
+  width: 100%;
+}
+
+.candidate-job-search .container .row .col {
+  margin-bottom: 20px;
+}
+
+.candidate-job-search .container .row .col .pagination {
+  display: flex;
+  justify-content: center;
+}

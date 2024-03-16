@@ -1,0 +1,18 @@
+.surveyform-form-group {
+  resize: none;
+}
+
+.survey-tab {
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 8px 0;
+  cursor: pointer;
+  border-bottom: 2px solid;
+  border-color: rgba(255, 255, 255, 0);
+}
+.survey-tab:hover {
+  border-color: rgb(43, 190, 190);
+}
+.survey-tab-underline {
+  border-color: rgb(10, 127, 127);
+}

@@ -1,0 +1,14 @@
+.has-error {
+    width: 100%;
+    margin-top: 0.25rem;
+    color: rgb(255,0,0);
+}
+
+.skills-feather-18 {
+    width: 18px;
+    height: 18px;
+}
+
+.skills-col {
+    width: 8%;
+}

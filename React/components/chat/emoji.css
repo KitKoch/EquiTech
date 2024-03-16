@@ -1,0 +1,17 @@
+.emoji:hover {
+  background-color: rgb(132, 185, 255);
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.emoji {
+  font-size: large;
+  margin: 10px;
+  padding: 7px;
+}
+
+.emoji-container {
+  height: 100px;
+  width: 200px;
+  overflow-y: scroll;
+}

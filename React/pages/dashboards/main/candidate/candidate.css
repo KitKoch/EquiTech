@@ -1,0 +1,44 @@
+.candidate .card-main {
+  border-radius: 8px;
+  box-shadow: -2px 2px 8px 1px rgba(41, 47, 51, 0.3);
+  z-index: 1;
+  align-items: center;
+  padding: 1rem;
+  max-width: 100%;
+}
+
+.candidate .profile-user-info-parent-container {
+  display: flex;
+  justify-content: center;
+}
+
+.candidate .profile-card-header-user-info-container {
+  width: 100%;
+}
+
+.candidate .user-settings-form {
+  margin-bottom: 1rem;
+}
+
+.candidate .name-info {
+  font-weight: bold;
+}
+
+.candidate .text-center {
+  text-align: center;
+}
+
+@media (min-width: 992px) {
+  .candidate .candidate-card-container {
+    margin-left: 0;
+  }
+
+  .candidate .job-search-container {
+    margin-top: 0rem;
+  }
+}
+
+.candidate .profile-image {
+  object-fit: cover;
+  width: 100%;
+}

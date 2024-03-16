@@ -1,0 +1,26 @@
+
+.organization-admin-card-image-size {
+    object-fit: cover;
+    height: 6em;
+    width: 6em;
+}
+
+.company-name-card-image-size {
+    object-fit: cover;
+    height: 12em;
+    width: 12em;
+}
+
+.organization-admin-card-title-underline:hover {
+    text-decoration: underline;
+}
+
+.organization-admin-card-toggle-size {
+    width: 15em;
+}
+
+.org-form-tool-3-image-size {
+    height: 34em;
+    width: 34em;
+    object-fit: cover;
+}

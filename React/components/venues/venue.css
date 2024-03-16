@@ -1,0 +1,22 @@
+
+.venue-img {
+    width: 100px;
+    height: 100px;
+  }
+  
+.venue-card{
+    height: 300px;
+}
+
+.venue-circle-button{
+  padding: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: none;
+  background-color: transparent;
+}
+
+.venue-circle-button:hover{
+  background-color: white;
+}

@@ -1,0 +1,59 @@
+.job-card-logo-size-sm {   /* image sizing for logo*/
+    width: 40px;
+    height: 40px;
+    border-radius: 3px;
+    object-fit: cover;
+  }
+
+.job-large-view-logo-size-md {  /* image sizing for logo*/
+    width: 100px;
+    height: 100px;
+    border-radius: 3px;
+    object-fit: cover;
+  }
+
+.card-shadow:hover {
+  box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 0.75);
+}
+
+.card-transform:hover {
+  transform: translate(0, -2px);
+}
+
+#select-job:hover {
+  border-color: #9fc0f5;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(63, 128, 234, 0.25);
+}
+
+.selected { /*changes background color of selected card*/
+  background:rgb(214, 212, 212);
+  border-color: #7a7b80;
+}
+
+/* Styling for Swal Alert*/
+.job-search-swal-cancel-pos {
+  position:absolute;
+  top: .25rem;
+  right: .25rem;
+}
+
+.job-search-swal-cancel-font {
+  font-size: 1rem;
+  color: white
+}
+
+.job-search-swal-confirm-button {
+  background-color: rgb(63,128,234);
+}
+
+.job-search-swal-deny-button {
+  background-color: rgb(229,165,75);
+}
+
+.job-search-swal-deny-button {
+  background-color: rgb(229,165,75);
+}
+.job-detail-pointer{
+        cursor: pointer;
+    }

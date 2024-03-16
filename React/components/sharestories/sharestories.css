@@ -1,0 +1,21 @@
+.share-story-title {
+  font-size: 60px;
+}
+.share-story-head-info {
+  font-size: 14px;
+}
+.story-avatar{
+    height: 230px;
+}
+.story-page-centering{
+    justify-content: center;
+}
+.story-width{
+    width:100% !important;
+}
+.story-avatar-control{
+    max-width: 200px;
+    max-height: 200px;
+    min-width: 200px;
+    min-height: 200px;
+}

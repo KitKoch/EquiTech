@@ -1,0 +1,40 @@
+.team-card-logo-size-sm {   /* image sizing for logo*/
+    width: 80px;
+    height: 80px;
+    border-radius: 3px;
+  }
+
+.team-large-view-logo-size-md {  /* image sizing for logo*/
+    width: 80px;
+    height: 80px;
+    border-radius: 3px;
+  }
+
+.team-card-shadow:hover {
+  box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 0.75);
+}
+
+.team-card-transform:hover {
+  transform: translate(0, -2px);
+}
+
+.team-edit-icon{
+    color:#43aaff;
+    background-color: none;
+    margin-left: 10px;
+}
+
+.team-buttonsIcons {
+  margin-top: 5px;
+  margin-left: 78%;
+}
+
+.team-selected { /*changes background color of selected card*/
+  background:rgb(214, 212, 212);
+  border-color: #7a7b80;
+}
+
+.user-pfp{
+  height: 50px;
+  width: 50px;
+}

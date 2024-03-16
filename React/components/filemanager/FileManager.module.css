@@ -1,0 +1,10 @@
+.filemanager_table {
+  height: 100%;
+}
+.filemanager_button:hover {
+  color: rgb(24, 119, 160);
+}
+.filemanager_option:hover {
+  background-color: #cad1d49a;
+  cursor: pointer;
+}
